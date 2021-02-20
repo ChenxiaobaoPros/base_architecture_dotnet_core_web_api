@@ -1,0 +1,13 @@
+D:\arquitetura_api_netcore\src\Api.Service\bin\Debug\netcoreapp3.1\Service.deps.json
+D:\arquitetura_api_netcore\src\Api.Service\bin\Debug\netcoreapp3.1\Service.dll
+D:\arquitetura_api_netcore\src\Api.Service\bin\Debug\netcoreapp3.1\Service.pdb
+D:\arquitetura_api_netcore\src\Api.Service\bin\Debug\netcoreapp3.1\Data.dll
+D:\arquitetura_api_netcore\src\Api.Service\bin\Debug\netcoreapp3.1\Domain.dll
+D:\arquitetura_api_netcore\src\Api.Service\bin\Debug\netcoreapp3.1\Domain.pdb
+D:\arquitetura_api_netcore\src\Api.Service\bin\Debug\netcoreapp3.1\Data.pdb
+D:\arquitetura_api_netcore\src\Api.Service\obj\Debug\netcoreapp3.1\Service.csprojAssemblyReference.cache
+D:\arquitetura_api_netcore\src\Api.Service\obj\Debug\netcoreapp3.1\Service.AssemblyInfoInputs.cache
+D:\arquitetura_api_netcore\src\Api.Service\obj\Debug\netcoreapp3.1\Service.AssemblyInfo.cs
+D:\arquitetura_api_netcore\src\Api.Service\obj\Debug\netcoreapp3.1\Service.csproj.CopyComplete
+D:\arquitetura_api_netcore\src\Api.Service\obj\Debug\netcoreapp3.1\Service.dll
+D:\arquitetura_api_netcore\src\Api.Service\obj\Debug\netcoreapp3.1\Service.pdb

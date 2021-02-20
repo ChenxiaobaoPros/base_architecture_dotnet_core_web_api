@@ -1,0 +1,17 @@
+D:\arquitetura_api_netcore\src\Api.Service\bin\Debug\net5.0\Service.deps.json
+D:\arquitetura_api_netcore\src\Api.Service\bin\Debug\net5.0\Service.dll
+D:\arquitetura_api_netcore\src\Api.Service\bin\Debug\net5.0\ref\Service.dll
+D:\arquitetura_api_netcore\src\Api.Service\bin\Debug\net5.0\Service.pdb
+D:\arquitetura_api_netcore\src\Api.Service\bin\Debug\net5.0\Data.dll
+D:\arquitetura_api_netcore\src\Api.Service\bin\Debug\net5.0\Domain.dll
+D:\arquitetura_api_netcore\src\Api.Service\bin\Debug\net5.0\Domain.pdb
+D:\arquitetura_api_netcore\src\Api.Service\bin\Debug\net5.0\Data.pdb
+D:\arquitetura_api_netcore\src\Api.Service\obj\Debug\net5.0\Service.csprojAssemblyReference.cache
+D:\arquitetura_api_netcore\src\Api.Service\obj\Debug\net5.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\arquitetura_api_netcore\src\Api.Service\obj\Debug\net5.0\Service.AssemblyInfoInputs.cache
+D:\arquitetura_api_netcore\src\Api.Service\obj\Debug\net5.0\Service.AssemblyInfo.cs
+D:\arquitetura_api_netcore\src\Api.Service\obj\Debug\net5.0\Service.csproj.CoreCompileInputs.cache
+D:\arquitetura_api_netcore\src\Api.Service\obj\Debug\net5.0\Service.csproj.CopyComplete
+D:\arquitetura_api_netcore\src\Api.Service\obj\Debug\net5.0\Service.dll
+D:\arquitetura_api_netcore\src\Api.Service\obj\Debug\net5.0\ref\Service.dll
+D:\arquitetura_api_netcore\src\Api.Service\obj\Debug\net5.0\Service.pdb
