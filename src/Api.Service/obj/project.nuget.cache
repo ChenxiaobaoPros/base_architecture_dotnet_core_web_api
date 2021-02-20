@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "x+TqdB5zKCWbNTOiGAz8CN1EdfOK5iEM+cPQTXsT0Pq93uVSeGr2QXf2IZaaDmFvHzmSBdet9ep6xBbAaTWwJQ==",
+  "dgSpecHash": "9n9mfNMYUoI9Xrz8lPrpCT8l2VQJPDORW8BRPCCnrmPUdH+Q2L4HVZALWEa/vaNzlcCNeAbNgVl1Idcp6i+uLw==",
   "success": true,
-  "projectFilePath": "D:\\arquitetura_api_netcore\\src\\Api.Service\\Service.csproj",
+  "projectFilePath": "D:\\arquitetura_api_netcore\\base_architecture_dotnet_core_web_api\\src\\Api.Service\\Service.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\elgs\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\elgs\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

@@ -290,11 +290,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "d:\\arquitetura_api_netcore\\src\\Api.Domain\\Domain.csproj",
+      "projectUniqueName": "D:\\arquitetura_api_netcore\\base_architecture_dotnet_core_web_api\\src\\Api.Domain\\Domain.csproj",
       "projectName": "Domain",
-      "projectPath": "d:\\arquitetura_api_netcore\\src\\Api.Domain\\Domain.csproj",
+      "projectPath": "D:\\arquitetura_api_netcore\\base_architecture_dotnet_core_web_api\\src\\Api.Domain\\Domain.csproj",
       "packagesPath": "C:\\Users\\elgs\\.nuget\\packages\\",
-      "outputPath": "d:\\arquitetura_api_netcore\\src\\Api.Domain\\obj\\",
+      "outputPath": "D:\\arquitetura_api_netcore\\base_architecture_dotnet_core_web_api\\src\\Api.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",

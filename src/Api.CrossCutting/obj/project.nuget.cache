@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xNtcgz/ScmFzSFulw5HoPj1xNar4Ii70xmQ6N3IXrvXDf8E3peKOaTxHpx+cnwdAZW7ZfQuCzh2wUicj0R/fFA==",
+  "dgSpecHash": "FvEYPjXaJCh0W/FLcQGU0i6FxGECLx4q1eSk44qaK8d2MTFhyDj6LzGlL/6vJ8zUuQ7R4O/4jgieO4vOylf8Rg==",
   "success": true,
-  "projectFilePath": "D:\\arquitetura_api_netcore\\src\\Api.CrossCutting\\CrossCutting.csproj",
+  "projectFilePath": "D:\\arquitetura_api_netcore\\base_architecture_dotnet_core_web_api\\src\\Api.CrossCutting\\CrossCutting.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\elgs\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\elgs\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",

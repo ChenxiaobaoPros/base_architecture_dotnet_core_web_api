@@ -5644,11 +5644,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\arquitetura_api_netcore\\src\\Api.Application\\application.csproj",
+      "projectUniqueName": "D:\\arquitetura_api_netcore\\base_architecture_dotnet_core_web_api\\src\\Api.Application\\application.csproj",
       "projectName": "application",
-      "projectPath": "D:\\arquitetura_api_netcore\\src\\Api.Application\\application.csproj",
+      "projectPath": "D:\\arquitetura_api_netcore\\base_architecture_dotnet_core_web_api\\src\\Api.Application\\application.csproj",
       "packagesPath": "C:\\Users\\elgs\\.nuget\\packages\\",
-      "outputPath": "D:\\arquitetura_api_netcore\\src\\Api.Application\\obj\\",
+      "outputPath": "D:\\arquitetura_api_netcore\\base_architecture_dotnet_core_web_api\\src\\Api.Application\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -5670,14 +5670,14 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "D:\\arquitetura_api_netcore\\src\\Api.CrossCutting\\CrossCutting.csproj": {
-              "projectPath": "D:\\arquitetura_api_netcore\\src\\Api.CrossCutting\\CrossCutting.csproj"
+            "D:\\arquitetura_api_netcore\\base_architecture_dotnet_core_web_api\\src\\Api.CrossCutting\\CrossCutting.csproj": {
+              "projectPath": "D:\\arquitetura_api_netcore\\base_architecture_dotnet_core_web_api\\src\\Api.CrossCutting\\CrossCutting.csproj"
             },
-            "D:\\arquitetura_api_netcore\\src\\Api.Domain\\Domain.csproj": {
-              "projectPath": "D:\\arquitetura_api_netcore\\src\\Api.Domain\\Domain.csproj"
+            "D:\\arquitetura_api_netcore\\base_architecture_dotnet_core_web_api\\src\\Api.Domain\\Domain.csproj": {
+              "projectPath": "D:\\arquitetura_api_netcore\\base_architecture_dotnet_core_web_api\\src\\Api.Domain\\Domain.csproj"
             },
-            "D:\\arquitetura_api_netcore\\src\\Api.Service\\Service.csproj": {
-              "projectPath": "D:\\arquitetura_api_netcore\\src\\Api.Service\\Service.csproj"
+            "D:\\arquitetura_api_netcore\\base_architecture_dotnet_core_web_api\\src\\Api.Service\\Service.csproj": {
+              "projectPath": "D:\\arquitetura_api_netcore\\base_architecture_dotnet_core_web_api\\src\\Api.Service\\Service.csproj"
             }
           }
         }

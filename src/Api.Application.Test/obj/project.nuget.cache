@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "e/YQ5Ak5U0KB1NADG9c9lbIZyaBky+tLgc9zQaiksQSZoxEaxy6Kf4WHKsDDrKIdiy0G4gVWqEUsnYgRS8GEmA==",
+  "dgSpecHash": "AB931dm5aPtJi+SPlTp9o1f+LxAzo9uKjVfaLw+2EVv+ovzuEOPw0aMEK/hPkXban2YF6zk+gW1EE9WJhoFHGQ==",
   "success": true,
-  "projectFilePath": "D:\\arquitetura_api_netcore\\src\\Api.Application.Test\\Api.Application.Test.csproj",
+  "projectFilePath": "D:\\arquitetura_api_netcore\\base_architecture_dotnet_core_web_api\\src\\Api.Application.Test\\Api.Application.Test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\elgs\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\elgs\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",

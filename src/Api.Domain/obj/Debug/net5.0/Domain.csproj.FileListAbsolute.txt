@@ -10,3 +10,15 @@ D:\arquitetura_api_netcore\src\Api.Domain\obj\Debug\net5.0\Domain.csproj.CoreCom
 D:\arquitetura_api_netcore\src\Api.Domain\obj\Debug\net5.0\Domain.dll
 D:\arquitetura_api_netcore\src\Api.Domain\obj\Debug\net5.0\ref\Domain.dll
 D:\arquitetura_api_netcore\src\Api.Domain\obj\Debug\net5.0\Domain.pdb
+D:\arquitetura_api_netcore\base_architecture_dotnet_core_web_api\src\Api.Domain\bin\Debug\net5.0\Domain.deps.json
+D:\arquitetura_api_netcore\base_architecture_dotnet_core_web_api\src\Api.Domain\bin\Debug\net5.0\Domain.dll
+D:\arquitetura_api_netcore\base_architecture_dotnet_core_web_api\src\Api.Domain\bin\Debug\net5.0\ref\Domain.dll
+D:\arquitetura_api_netcore\base_architecture_dotnet_core_web_api\src\Api.Domain\bin\Debug\net5.0\Domain.pdb
+D:\arquitetura_api_netcore\base_architecture_dotnet_core_web_api\src\Api.Domain\obj\Debug\net5.0\Domain.csprojAssemblyReference.cache
+D:\arquitetura_api_netcore\base_architecture_dotnet_core_web_api\src\Api.Domain\obj\Debug\net5.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\arquitetura_api_netcore\base_architecture_dotnet_core_web_api\src\Api.Domain\obj\Debug\net5.0\Domain.AssemblyInfoInputs.cache
+D:\arquitetura_api_netcore\base_architecture_dotnet_core_web_api\src\Api.Domain\obj\Debug\net5.0\Domain.AssemblyInfo.cs
+D:\arquitetura_api_netcore\base_architecture_dotnet_core_web_api\src\Api.Domain\obj\Debug\net5.0\Domain.csproj.CoreCompileInputs.cache
+D:\arquitetura_api_netcore\base_architecture_dotnet_core_web_api\src\Api.Domain\obj\Debug\net5.0\Domain.dll
+D:\arquitetura_api_netcore\base_architecture_dotnet_core_web_api\src\Api.Domain\obj\Debug\net5.0\ref\Domain.dll
+D:\arquitetura_api_netcore\base_architecture_dotnet_core_web_api\src\Api.Domain\obj\Debug\net5.0\Domain.pdb

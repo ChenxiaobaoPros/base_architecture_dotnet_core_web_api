@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sKCsj9lvt91HEUroP4GiqwHvpfhWSk/OjQyleY+TTeC3tRXRe72SLW5SJYipb2APjbFvw/dYCu526M1NM+4myQ==",
+  "dgSpecHash": "igbSX8MeYcRCxAxJKpfAix/wB28vjVeo0ek17OTEsuGuHTqCdUWve5NXnhBz54rEWYEVe7H/IncZunzZubHkuA==",
   "success": true,
-  "projectFilePath": "D:\\arquitetura_api_netcore\\src\\Api.Domain\\Domain.csproj",
+  "projectFilePath": "D:\\arquitetura_api_netcore\\base_architecture_dotnet_core_web_api\\src\\Api.Domain\\Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\elgs\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\6.8.0\\microsoft.identitymodel.jsonwebtokens.6.8.0.nupkg.sha512",

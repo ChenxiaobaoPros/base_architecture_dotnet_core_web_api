@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0et9aeuyDCcldOry3rEfOIV1Z//rMYr6cCm4saUVRgrIANRgecJVTt99qBTZ6v2WIGSjvw9SpJ2eVo58zSFJ2g==",
+  "dgSpecHash": "RQKqihcY7tQFS7WMWK2IKDSME09TeCDCo6a1scl+pAJZO/5AK7Kh1lJJkDi0H7JehWuNV+glcxaN388EP3KDKw==",
   "success": true,
-  "projectFilePath": "D:\\arquitetura_api_netcore\\src\\Api.Data\\Data.csproj",
+  "projectFilePath": "D:\\arquitetura_api_netcore\\base_architecture_dotnet_core_web_api\\src\\Api.Data\\Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\elgs\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\elgs\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

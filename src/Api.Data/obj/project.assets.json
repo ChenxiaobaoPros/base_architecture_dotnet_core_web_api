@@ -5825,11 +5825,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\arquitetura_api_netcore\\src\\Api.Data\\Data.csproj",
+      "projectUniqueName": "D:\\arquitetura_api_netcore\\base_architecture_dotnet_core_web_api\\src\\Api.Data\\Data.csproj",
       "projectName": "Data",
-      "projectPath": "D:\\arquitetura_api_netcore\\src\\Api.Data\\Data.csproj",
+      "projectPath": "D:\\arquitetura_api_netcore\\base_architecture_dotnet_core_web_api\\src\\Api.Data\\Data.csproj",
       "packagesPath": "C:\\Users\\elgs\\.nuget\\packages\\",
-      "outputPath": "D:\\arquitetura_api_netcore\\src\\Api.Data\\obj\\",
+      "outputPath": "D:\\arquitetura_api_netcore\\base_architecture_dotnet_core_web_api\\src\\Api.Data\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -5851,8 +5851,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "D:\\arquitetura_api_netcore\\src\\Api.Domain\\Domain.csproj": {
-              "projectPath": "D:\\arquitetura_api_netcore\\src\\Api.Domain\\Domain.csproj"
+            "D:\\arquitetura_api_netcore\\base_architecture_dotnet_core_web_api\\src\\Api.Domain\\Domain.csproj": {
+              "projectPath": "D:\\arquitetura_api_netcore\\base_architecture_dotnet_core_web_api\\src\\Api.Domain\\Domain.csproj"
             }
           }
         }
